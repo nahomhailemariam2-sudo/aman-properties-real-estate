@@ -1,36 +1,36 @@
-Aman Properties
+Aman Properties — Premium Real Estate Website
 
-Luxury Real Estate Website
+A cinematic, luxury-focused real estate website concept created for Aman Properties.
 
-A premium, modern, and cinematic real estate website designed for Aman Properties. The website focuses on showcasing properties in an elegant and professional way while making it easy for potential clients to explore listings and contact the company.
+The website is designed to create a premium first impression, showcase properties beautifully, communicate trust, and encourage visitors to explore and make an inquiry.
 
 ---
 
-✦ Features
+✦ Design Direction
 
-- Luxury cinematic homepage
-- Responsive design for mobile, tablet, and desktop
-- Premium property showcase
-- Property cards with:
-  - Property images
-  - Location
-  - Property details
-  - Pricing
-  - Status labels
-- Interactive image gallery
-- Full-screen gallery lightbox
-- About Aman Properties section
-- Services section
-- Company statistics with animated counters
-- Contact section
-- Contact form
-- Mobile navigation menu
+The website uses a sophisticated editorial-style design inspired by premium architecture and luxury real estate brands.
+
+Main visual features
+
+- Cinematic full-screen hero section
+- Elegant serif typography
+- Minimal luxury aesthetic
+- Premium neutral color palette
+- Gold accent details
+- Large architectural photography
 - Smooth scrolling
-- Scroll reveal animations
-- Hero image parallax effect
-- Elegant gold and dark luxury color scheme
-- Google Fonts integration
-- Mobile-friendly layout
+- Scroll-triggered animations
+- Image hover effects
+- Animated statistics
+- Responsive mobile navigation
+- Full mobile optimization
+- Strong call-to-action sections
+- Premium project cards
+- Upcoming-project section
+- Team section
+- Location section
+- Contact section
+- Professional footer
 
 ---
 
@@ -41,225 +41,277 @@ aman-properties/
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-│
-└── assets/
-    ├── hero.jpg
-    ├── cta.jpg
-    ├── property-1.jpg
-    ├── property-2.jpg
-    ├── property-3.jpg
-    ├── gallery-1.jpg
-    ├── gallery-2.jpg
-    ├── gallery-3.jpg
-    └── ...
+└── README.md
 
 ---
 
-🎨 Design
+🏠 Website Sections
 
-The website uses a luxury-inspired visual identity built around:
+1. Hero
 
-- Deep black backgrounds
-- Warm gold accents
-- Elegant serif typography
-- Large cinematic imagery
-- Minimal layouts
-- Smooth animations
-- Spacious sections
-- Premium property presentation
+The opening section introduces Aman Properties with a cinematic property image, strong headline, location information, and a clear call-to-action.
 
-The goal is to create a website that feels exclusive, trustworthy, modern, and high-end.
+2. Introduction
+
+A short brand introduction explaining the philosophy behind Aman Properties.
+
+3. Featured Project
+
+A large visual presentation of a featured residence with supporting information and project highlights.
+
+4. Projects
+
+A curated property showcase featuring:
+
+- Aman Heights
+- Aman Royale
+- Aman Grand
+
+Project names and information can be replaced with verified Aman Properties developments.
+
+5. Brand Marquee
+
+An animated scrolling statement reinforcing the brand message.
+
+6. Statistics
+
+Animated numbers highlighting company achievements and experience.
+
+These figures are currently demonstration values and should be replaced with verified company statistics.
+
+7. About Aman Properties
+
+A dedicated section explaining the company's vision, philosophy, and approach to property development.
+
+8. Aman Experience
+
+Highlights the major reasons customers should consider Aman Properties:
+
+- Prime locations
+- Exceptional design
+- Long-term value
+- Personal service
+
+9. Upcoming Projects
+
+A cinematic section designed to generate curiosity around future developments and encourage visitors to register their interest.
+
+10. Team
+
+A visual team section introducing the people behind the company.
+
+Replace the demonstration imagery and labels with verified staff information before public launch.
+
+11. Brand Philosophy
+
+A large editorial-style statement reinforcing the company's approach to real estate.
+
+12. Location
+
+A location section featuring:
+
+- Addis Ababa
+- Office information
+- Business hours
+- Google Maps button
+
+The exact address should be replaced with Aman Properties' verified office location.
+
+13. Contact
+
+A strong final call-to-action encouraging potential buyers and investors to contact the company.
 
 ---
 
-🛠️ Technologies
+🎨 Technologies
 
-This project is built using:
+This website uses:
 
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 - Google Fonts
-- CSS Grid
-- CSS Flexbox
-- Intersection Observer API
-- Responsive media queries
+- Responsive CSS
+- CSS animations
+- JavaScript Intersection Observer API
 
-No large frameworks are required.
-
----
-
-🖼️ Adding Images
-
-Place your property and company images inside the:
-
-assets/
-
-folder.
-
-For example:
-
-assets/hero.jpg
-assets/cta.jpg
-assets/property-1.jpg
-assets/property-2.jpg
-assets/property-3.jpg
-assets/gallery-1.jpg
-assets/gallery-2.jpg
-
-Make sure the filenames match the filenames used in "index.html" and "style.css".
-
----
-
-🚀 Running the Website
-
-Option 1 — Open Locally
-
-Simply open:
-
-index.html
-
-in a modern web browser.
-
-Option 2 — VS Code
-
-Open the project folder in VS Code and launch "index.html" using a local development server such as Live Server.
-
-Option 3 — GitHub Pages
-
-Upload the project to a GitHub repository and enable GitHub Pages.
-
-Your website can then be accessed through your GitHub Pages address.
-
----
-
-📱 Responsive Design
-
-The website is optimized for:
-
-- 📱 Smartphones
-- 📱 Tablets
-- 💻 Laptops
-- 🖥️ Desktop monitors
-
-The navigation, property cards, gallery, statistics, and contact sections automatically adapt to smaller screens.
+No framework is required.
 
 ---
 
 ✨ Animations
 
-The website includes several subtle animations:
+The website includes:
 
-- Header transformation while scrolling
-- Scroll reveal effects
-- Property card hover animations
-- Image zoom effects
+- Preloader animation
+- Hero image zoom
+- Scroll reveal animations
 - Animated statistics
-- Smooth navigation scrolling
-- Gallery lightbox
-- Hero parallax effect
+- Image hover zoom
+- Project card movement
+- Parallax-style hero movement
+- Magnetic button interaction
+- Animated marquee
+- Mobile menu transitions
+- Smooth anchor scrolling
 
-Animations are designed to enhance the luxury experience without making the website feel excessive.
-
----
-
-📸 Gallery
-
-Clicking a gallery image opens it in a full-screen lightbox.
-
-The lightbox can be closed by:
-
-- Clicking the "×" button
-- Clicking outside the image
-- Pressing "Esc"
+The goal is to make scrolling feel dynamic rather than like moving through a collection of static pages.
 
 ---
 
-📞 Contact
+📱 Responsive Design
 
-The contact section can be customized with Aman Properties' official:
+The website is designed to work across:
 
-- Phone number
-- Email address
-- Office location
-- Social media accounts
-- WhatsApp contact
+- Desktop computers
+- Laptops
+- Tablets
+- Android phones
+- iPhones
 
-Replace the placeholder information in "index.html" with the company's actual contact details before publishing.
+The navigation automatically changes to a mobile menu on smaller screens.
+
+---
+
+🖼️ Images
+
+The current version uses demonstration property and architectural imagery loaded from external image URLs.
+
+For a real Aman Properties deployment, replace the demonstration images with:
+
+- Official Aman Properties project photography
+- Official building photography
+- Verified interior photography
+- Official staff photographs
+- Official development renders
+
+This will make the final website more authentic and brand-specific.
+
+---
+
+⚠️ Demo Content
+
+This repository is a website concept/demo.
+
+The following information should be verified before the website is presented as an official company website:
+
+- Project names
+- Project descriptions
+- Company statistics
+- Staff names
+- Staff positions
+- Phone numbers
+- Email addresses
+- Office address
+- Business hours
+- Social-media accounts
+- Property availability
+- Pricing
+- Development information
+
+Do not publish unverified information as official company information.
+
+---
+
+📞 Contact Customization
+
+Before launch, update the contact links inside "index.html".
+
+Replace the demonstration phone number:
+
+tel:+251000000000
+
+with the company's verified phone number.
+
+Replace the demonstration email:
+
+info@amanproperties.com
+
+with the company's verified email address.
+
+---
+
+🗺️ Location Customization
+
+The Google Maps button currently uses a general Aman Properties search.
+
+For the final website, replace it with the company's exact verified Google Maps location.
+
+---
+
+🚀 Deployment
+
+The website can be deployed using services such as:
+
+- GitHub Pages
+- Netlify
+- Vercel
+- Cloudflare Pages
+
+The project does not require a backend for the current demo version.
 
 ---
 
 🔧 Customization
 
-Change the main colors
+The easiest files to customize are:
 
-Open:
+"index.html"
 
-style.css
+Change:
 
-and edit the variables near the top:
-
-:root {
-    --gold: #c9a86a;
-    --black: #0b0b0b;
-    --dark: #111111;
-    --cream: #f5f1e8;
-}
-
-Change images
-
-Replace the images inside:
-
-assets/
-
-while keeping the same filenames.
-
-Change property information
-
-Edit the property cards inside:
-
-index.html
-
-You can change:
-
-- Property name
+- Text
+- Projects
+- Contact details
+- Images
+- Team information
 - Location
-- Price
-- Bedrooms
-- Bathrooms
-- Property size
-- Property status
-- Description
+- Links
+
+"style.css"
+
+Change:
+
+- Colors
+- Typography
+- Spacing
+- Animations
+- Layout
+- Responsive behavior
+
+"script.js"
+
+Change:
+
+- Scroll animations
+- Counters
+- Navigation
+- Parallax effects
+- Hover interactions
+- Mobile menu behavior
 
 ---
 
-⚡ Performance
+🌍 Brand Goal
 
-For the best performance:
+The purpose of this design is to position Aman Properties as a company associated with:
 
-- Use optimized JPG/WebP images
-- Avoid unnecessarily large images
-- Compress gallery images before uploading
-- Keep filenames simple
-- Use modern browsers
+Quality.
 
----
+Confidence.
 
-📄 License
+Architecture.
 
-This website is a custom project created for Aman Properties.
+Modern living.
 
-All company branding, photographs, logos, property information, and other proprietary materials should only be used with the appropriate permission.
+Long-term value.
+
+The experience should feel less like browsing a generic real-estate website and more like entering a premium property brand.
 
 ---
 
-👨‍💻 Developer
+© 2026 Aman Properties
 
-Designed & Developed by Nahom Hailemariam
+Website concept and design created as a demonstration project.
 
-A premium digital experience created to give Aman Properties a stronger online presence and showcase its properties with a modern luxury aesthetic.
-
----
-
-© 2026 Aman Properties — All Rights Reserved
+Replace all demonstration information with verified company information before official publication.
